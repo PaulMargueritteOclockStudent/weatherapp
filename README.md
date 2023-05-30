@@ -5,7 +5,7 @@
 
 # Contenu
 
-## La page type playlist comprend les éléments suivants :
+## La weather app comprend les éléments suivants :
 Search bar
 Bouton de validation
 Affichage de la météo et autres information
