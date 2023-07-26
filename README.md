@@ -1,4 +1,3 @@
-Weather App
 # Weather App
 
 ## This project is a Weather App coded using HTML, CSS, and JS. It is designed to display the weather, allowing the user to view the weather conditions, temperature, wind, and humidity.
