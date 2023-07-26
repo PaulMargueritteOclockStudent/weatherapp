@@ -25,7 +25,7 @@ This project is open-source and available.
 
 Feel free to use, modify, and distribute it.
 
-Acknowledgments
+# Acknowledgments
 We want to thank all the contributors and weather data providers for making this Weather App possible.
 
 For any questions or support, please contact us at paul.margueritte@icloud.com.
